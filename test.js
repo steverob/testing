@@ -1,4 +1,4 @@
 console.log("hello")
-add cifrbase code
+add firebase code
 
 console.log("world")
